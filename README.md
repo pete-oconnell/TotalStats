@@ -1,0 +1,2 @@
+# TotalStats
+SourceMod Statistics Plugin
